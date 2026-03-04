@@ -4,7 +4,8 @@ Este projeto apresenta uma landing page de **cards de planos de serviço**, com 
 
 ##  Demonstração
 
-Acesse o projeto online: [https://jakis19.github.io/cards/](https://jakis19.github.io/cards/)
+Acesse o projeto online: https://jaquelinevieira-dev.github.io/cards/
+
 
 ##  Páginas do Projeto
 
@@ -23,7 +24,8 @@ Acesse o projeto online: [https://jakis19.github.io/cards/](https://jakis19.gith
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/jakis19/cards.git
+   git clone https:https://jaquelinevieira-dev.github.io/cards/
+
    ```
 2. Abra o arquivo `index.html` ou qualquer página (`home.html`, `suporte.html`, `contato.html`) em seu navegador.
 
